@@ -188,7 +188,7 @@ namespace CyberServer
             // 分发消息
             MethodInfo mi = typeof(MsgHandler).GetMethod(protoName);
             object[] o = { state, msgBase };
-            LogService.Info("[服务器] 接收到消息: " + protoName);
+            LogService.Info("[服务器] 接收到消息: " + protoName + ", " + state.socket.RemoteEndPoint);
             if (mi != null)
             {
                 mi.Invoke(null, o);
@@ -197,7 +197,7 @@ namespace CyberServer
             {
                 Console.WriteLine("OnReceiveData Invoke fail " + protoName);
             }
-            //继续读取消息
+            // 继续读取消息
             if (readBuff.length > 2)
             {
                 OnReceiveData(state);

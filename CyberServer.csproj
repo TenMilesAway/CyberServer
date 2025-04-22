@@ -53,6 +53,9 @@
   <ItemGroup>
     <Compile Include="DB\DBManager.cs" />
     <Compile Include="CyberServer.cs" />
+    <Compile Include="Entity\Player.cs" />
+    <Compile Include="Entity\PlayerData.cs" />
+    <Compile Include="Logic\DataMsgHandler.cs" />
     <Compile Include="Logic\EventHandler.cs" />
     <Compile Include="Logic\LoginMsgHandler.cs" />
     <Compile Include="Logic\SysMsgHandler.cs" />
@@ -62,6 +65,7 @@
     <Compile Include="Net\MsgBase.cs" />
     <Compile Include="Net\NetManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proto\DataMsg.cs" />
     <Compile Include="Proto\LoginMsg.cs" />
     <Compile Include="Proto\SysMsg.cs" />
   </ItemGroup>

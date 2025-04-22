@@ -5,12 +5,15 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using System.Text.RegularExpressions;
+using System.Web.Script.Serialization;
 
 namespace CyberServer
 {
     class DBManager
     {
         public static MySqlConnection mysql;
+
+        public static JavaScriptSerializer Js = new JavaScriptSerializer();
 
         // 连接数据库
         public static bool Connect(string db, string ip, int port, string user, string pw)
@@ -67,6 +70,59 @@ namespace CyberServer
             catch (Exception e)
             {
                 LogService.Error("[数据库] 密码验证失败: " + e.Message);
+                return false;
+            }
+        }
+
+        // 得到角色数据
+        public static PlayerInfo GetPlayerInfo(string id)
+        {
+            PlayerInfo playerInfo;
+
+            if (!DBManager.IsSafeString(id))
+            {
+                LogService.Error("[数据库] 用户 ID 不安全");
+                return null;
+            }
+
+            string sql = string.Format("select data from player where id = '{0}'", id);
+
+            MySqlCommand cmd = new MySqlCommand(sql, mysql);
+            MySqlDataReader dataReader = cmd.ExecuteReader();
+
+            // 在 Get 前先 Read
+            dataReader.Read();
+            string data = dataReader.GetString(0);
+            playerInfo = Js.Deserialize<PlayerInfo>(data);
+
+            return playerInfo;
+        }
+
+        // 存储角色数据
+        public static bool UpdatePlayerInfo(string id, PlayerInfo playerInfo)
+        {
+            if (!DBManager.IsSafeString(id))
+            {
+                LogService.Error("[数据库] 用户 ID 不安全");
+                return false;
+            }
+
+            string data = Js.Serialize(playerInfo);
+
+            // 写入
+            string sql = string.Format("update player set data = '{0}' where id = '{1}'", data, id);
+
+            LogService.Info("[数据库] 语句: " + sql);
+
+            try
+            {
+                MySqlCommand cmd = new MySqlCommand(sql, mysql);
+                cmd.ExecuteNonQuery();
+                return true;
+            }
+            catch (Exception e)
+            {
+                LogService.Error("[数据库] 角色信息更新失败: " + e.Message);
                 return false;
             }
         }
