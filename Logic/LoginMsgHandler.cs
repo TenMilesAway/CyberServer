@@ -12,12 +12,12 @@ public partial class MsgHandler
         {
 			msg.result = 1;
 			NetManager.Send(c, msg);
-			LogService.Error("[服务器] 用户登录失败");
+			LogService.Error("[服务器] 用户登录失败, " + c.socket.RemoteEndPoint);
 			return;
         }
 
 		msg.result = 0;
 		NetManager.Send(c, msg);
-		LogService.Info("[服务器] 用户登录成功");
+		LogService.Info("[服务器] 用户登录成功, " + c.socket.RemoteEndPoint);
 	}
 }
