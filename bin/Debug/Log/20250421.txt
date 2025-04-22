@@ -1,0 +1,88 @@
+
+2025-04-21 17:16:25,620 [1] [WARN ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 17:16:26,297 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 17:33:37,494 [1] [WARN ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 17:33:38,197 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 17:45:05,117 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 17:45:05,722 [1] [ERROR] [CyberServer] ：[数据库] 连接失败
+2025-04-21 17:45:05,724 [1] [ERROR] [CyberServer] ：[数据库] 连接失败
+2025-04-21 17:45:10,732 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 17:45:11,233 [1] [ERROR] [CyberServer] ：[数据库] 连接失败
+2025-04-21 17:45:11,236 [1] [ERROR] [CyberServer] ：[数据库] 连接失败
+2025-04-21 17:46:10,538 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 17:46:11,024 [1] [ERROR] [CyberServer] ：[数据库] 连接失败, Authentication to host '127.0.0.1' for user 'root' using method 'caching_sha2_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+2025-04-21 17:46:11,024 [1] [ERROR] [CyberServer] ：[数据库] 连接失败
+2025-04-21 17:46:29,761 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 17:46:30,232 [1] [ERROR] [CyberServer] ：[数据库] 连接失败原因, Authentication to host '127.0.0.1' for user 'root' using method 'caching_sha2_password' failed with message: Access denied for user 'root'@'localhost' (using password: YES)
+2025-04-21 17:46:30,232 [1] [ERROR] [CyberServer] ：[数据库] 连接失败
+2025-04-21 17:49:04,714 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 17:49:05,252 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 17:49:05,253 [1] [INFO ] [CyberServer] ：[服务器] 启动成功
+2025-04-21 19:58:47,591 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 19:58:48,284 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 19:58:48,286 [1] [INFO ] [CyberServer] ：[服务器] 启动成功
+2025-04-21 20:08:55,754 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:08:56,427 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:12:53,649 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:12:54,168 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:13:14,139 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:13:14,615 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:13:41,733 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:13:42,237 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:14:03,681 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:14:04,200 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:14:36,018 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:14:36,504 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:14:54,281 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:14:54,794 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:15:07,357 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:15:07,996 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:15:21,211 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 20:15:21,706 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 20:15:21,709 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-21 21:22:01,350 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 21:22:02,031 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 21:22:02,032 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-21 21:53:29,697 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 21:53:30,399 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 21:53:30,401 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-21 21:54:00,322 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:49704
+2025-04-21 21:54:22,361 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 21:54:32,045 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 21:54:33,284 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 21:54:33,655 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 21:55:11,787 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 21:55:12,377 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 21:56:00,504 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:49704
+2025-04-21 22:01:55,811 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 22:01:56,339 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 22:01:56,342 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-21 22:02:00,782 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:49782
+2025-04-21 22:02:12,606 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:02:16,079 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:02:23,371 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:02:27,220 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:02:31,958 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgPing
+2025-04-21 22:02:53,939 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:02:58,154 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:03:01,963 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgPing
+2025-04-21 22:03:45,982 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:49782
+2025-04-21 22:04:11,141 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:52254
+2025-04-21 22:04:21,940 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:04:34,628 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:05:22,647 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:52254
+2025-04-21 22:05:24,438 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:52280
+2025-04-21 22:05:35,355 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:05:41,583 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:05:41,586 [1] [ERROR] [NetManager] ：[数据库] 密码验证失败: 密码不安全
+2025-04-21 22:05:45,394 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:05:47,797 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:06:26,886 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-21 22:06:27,598 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-21 22:06:27,600 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-21 22:06:55,110 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:52339
+2025-04-21 22:07:04,238 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:07:12,731 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:07:12,737 [1] [ERROR] [NetManager] ：[数据库] 密码验证失败: 密码不安全
+2025-04-21 22:07:17,406 [1] [INFO ] [NetManager] ：[服务器] 接收到消息: MsgLogin
+2025-04-21 22:08:55,501 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:52339
