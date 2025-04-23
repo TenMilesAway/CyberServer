@@ -15,7 +15,15 @@ namespace CyberServer
 
         public static JavaScriptSerializer Js = new JavaScriptSerializer();
 
-        // 连接数据库
+        /// <summary>
+        /// 连接数据库
+        /// </summary>
+        /// <param name="db"></param>
+        /// <param name="ip"></param>
+        /// <param name="port"></param>
+        /// <param name="user"></param>
+        /// <param name="pw"></param>
+        /// <returns></returns>
         public static bool Connect(string db, string ip, int port, string user, string pw)
         {
             mysql = new MySqlConnection();
@@ -42,7 +50,12 @@ namespace CyberServer
             return !Regex.IsMatch(str, @"[-|;|,|\/|\(|\)|\[|\]|\}|\{|%|@|\*|!|\']");
         }
 
-        // 检测用户名密码
+        /// <summary>
+        /// 检测用户名密码是否对应
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="pw"></param>
+        /// <returns></returns>
         public static bool CheckPassword(string id, string pw)
         {
             // 防 SQL 注入
@@ -74,7 +87,11 @@ namespace CyberServer
             }
         }
 
-        // 得到角色数据
+        /// <summary>
+        /// 获取指定 id 的 PlayerInfo
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public static PlayerInfo SelectPlayerInfo(string id)
         {
             PlayerInfo playerInfo;
@@ -122,7 +139,12 @@ namespace CyberServer
             return playerInfo;
         }
 
-        // 存储角色数据
+        /// <summary>
+        /// 存储指定 id 的 PlayerInfo
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="playerInfo"></param>
+        /// <returns></returns>
         public static bool InsertPlayerInfo(string id, PlayerInfo playerInfo)
         {
             if (!DBManager.IsSafeString(id))
@@ -151,7 +173,12 @@ namespace CyberServer
             }
         }
 
-        // 更新角色数据
+        /// <summary>
+        /// 更新指定 id 的 PlayerInfo
+        /// </summary>
+        /// <param name="id"></param>
+        /// <param name="playerInfo"></param>
+        /// <returns></returns>
         public static bool UpdatePlayerInfo(string id, PlayerInfo playerInfo)
         {
             if (!DBManager.IsSafeString(id))
@@ -180,7 +207,11 @@ namespace CyberServer
             }
         }
 
-        // 删除角色数据
+        /// <summary>
+        /// 删除指定 player
+        /// </summary>
+        /// <param name="id"></param>
+        /// <returns></returns>
         public static bool DeletePlayerInfo(string id)
         {
             if (!DBManager.IsSafeString(id))

@@ -17,6 +17,9 @@ namespace CyberServer
 		static List<Socket> checkRead = new List<Socket>();
 		// ping 间隔
 		public static long pingInterval = 30;
+		// 坐标信息分发间隔，单位为毫秒
+		public static long tempInfoInterval = 100;
+		public static long lastTempInfoFireTime = GetTimeStampMilliseconds();
 
 		public static void StartLoop(int listenPort)
 		{
@@ -81,6 +84,7 @@ namespace CyberServer
 				ClientState state = new ClientState();
 				state.socket = clientfd;
 				state.lastPingTime = GetTimeStamp();
+				state.tempInfo = new PlayerTempInfo();
 				clients.Add(clientfd, state);
 			}
 			catch (SocketException ex)
@@ -188,14 +192,14 @@ namespace CyberServer
             // 分发消息
             MethodInfo mi = typeof(MsgHandler).GetMethod(protoName);
             object[] o = { state, msgBase };
-            LogService.Info("[服务器] 接收到消息: " + protoName + ", " + state.socket.RemoteEndPoint);
+            //LogService.Info("[服务器] 接收到消息: " + protoName + ", " + state.socket.RemoteEndPoint);
             if (mi != null)
             {
                 mi.Invoke(null, o);
             }
             else
             {
-                Console.WriteLine("OnReceiveData Invoke fail " + protoName);
+                LogService.Error("[服务器] 消息处理函数启动失败: " + protoName);
             }
             // 继续读取消息
             if (readBuff.length > 2)
@@ -246,10 +250,10 @@ namespace CyberServer
 			}
 		}
 
-		//定时器
+		// 定时器
 		static void Timer()
 		{
-			// 消息分发
+			// OnTimer 消息分发
 			MethodInfo mei = typeof(EventHandler).GetMethod("OnTimer");
 			object[] ob = { };
 			mei.Invoke(null, ob);
@@ -260,6 +264,12 @@ namespace CyberServer
 		{
 			TimeSpan ts = DateTime.UtcNow - new DateTime(1970, 1, 1, 0, 0, 0, 0);
 			return Convert.ToInt64(ts.TotalSeconds);
+		}
+
+		public static long GetTimeStampMilliseconds()
+		{
+			DateTimeOffset now = DateTime.UtcNow.AddMilliseconds(DateTime.UtcNow.Millisecond);
+			return now.ToUnixTimeMilliseconds();
 		}
 	}
 }
