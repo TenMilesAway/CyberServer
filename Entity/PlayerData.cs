@@ -14,18 +14,10 @@ public class PlayerInfo
     public int gem;
     public int hp;
     public string head;
-    public int map;
 
     public List<ItemInfo> items;
     public List<ItemInfo> equips;
     public List<ItemInfo> potions;
-}
-
-[System.Serializable]
-public class ItemInfo
-{
-    public int id;
-    public int num;
 }
 
 [System.Serializable]
@@ -34,8 +26,6 @@ public class PlayerTempInfo
     // 用于查找
     public string id;
 
-    // 临时信息 - 地图
-    public int map;
     // 临时信息 - 坐标
     public float x;
     public float y;

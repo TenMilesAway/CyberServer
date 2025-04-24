@@ -19,6 +19,8 @@ public class MsgUploadPlayerTempInfo : MsgBase
     public MsgUploadPlayerTempInfo() { protoName = "MsgUploadPlayerTempInfo"; }
 
     public PlayerTempInfo tempInfo;
+
+    public Maps mapInfo;
 }
 
 public class MsgUpdatePlayerTempInfo : MsgBase

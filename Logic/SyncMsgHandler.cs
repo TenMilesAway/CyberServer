@@ -1,9 +1,15 @@
 ﻿using System;
 using System.Net.Sockets;
 using CyberServer;
+using System.Collections.Generic;
 
 public partial class MsgHandler
 {
+	/// <summary>
+	/// 获取当前的玩家列表
+	/// </summary>
+	/// <param name="c"></param>
+	/// <param name="msgBase"></param>
 	public static void MsgGetPlayerList(ClientState c, MsgBase msgBase)
 	{
 		MsgGetPlayerList msg = (MsgGetPlayerList)msgBase;
@@ -17,6 +23,11 @@ public partial class MsgHandler
 		NetManager.Send(c, msg);
 	}
 
+	/// <summary>
+	/// 将玩家列表分发给所有 Socket
+	/// </summary>
+	/// <param name="c"></param>
+	/// <param name="msgBase"></param>
 	public static void MsgUpdatePlayerEntities(ClientState c, MsgBase msgBase)
     {
 		MsgUpdatePlayerEntities msg = (MsgUpdatePlayerEntities)msgBase;
@@ -34,25 +45,50 @@ public partial class MsgHandler
 		}
 	}
 
+	/// <summary>
+	/// 更新 ClientState 内存储的信息
+	/// </summary>
+	/// <param name="c"></param>
+	/// <param name="msgBase"></param>
 	public static void MsgUploadPlayerTempInfo(ClientState c, MsgBase msgBase)
     {
 		MsgUploadPlayerTempInfo msg = (MsgUploadPlayerTempInfo)msgBase;
 
-		// 更新对应 socket 的 tempInfo
+		// 更新对应 socket 的 tempInfo 和 mapInfo
 		c.tempInfo = msg.tempInfo;
+		c.mapInfo = msg.mapInfo;
+
+		// 更新了以后分发
+		MsgUpdatePlayerTempInfo(c, new MsgUpdatePlayerTempInfo(), c.mapInfo);
     }
 
-	public static void MsgUpdatePlayerTempInfo(ClientState c, MsgBase msgBase)
+	/// <summary>
+	/// 分发玩家临时信息
+	/// </summary>
+	/// <param name="c"></param>
+	/// <param name="msgBase"></param>
+	public static void MsgUpdatePlayerTempInfo(ClientState c, MsgBase msgBase, Maps mapInfo)
     {
 		MsgUpdatePlayerTempInfo msg = (MsgUpdatePlayerTempInfo)msgBase;
+		msg.tempInfos = new List<PlayerTempInfo>();
 
-		// 后面需要加一下每秒限制发送次数
-
+		// 遍历所有 ClientState
 		foreach (ClientState state in NetManager.clients.Values)
         {
+			// 如果不是当前地图，则跳过信息添加
+			if (state.mapInfo != mapInfo)
+				continue;
+
 			msg.tempInfos.Add(state.tempInfo);
         }
 
-		NetManager.Send(c, msg);
+		foreach (ClientState state in NetManager.clients.Values)
+		{
+			// 如果不是当前地图，则跳过分发
+			if (state.mapInfo != mapInfo)
+				continue;
+
+			NetManager.Send(c, msg);
+		}
 	}
 }
