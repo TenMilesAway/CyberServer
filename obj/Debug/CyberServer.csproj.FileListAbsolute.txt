@@ -8,3 +8,4 @@ D:\Unity Project\Demo-Cyber-Server\CyberServer\bin\Debug\MySql.Data.dll
 D:\Unity Project\Demo-Cyber-Server\CyberServer\bin\Debug\MySql.Data.xml
 D:\Unity Project\Demo-Cyber-Server\CyberServer\obj\Debug\CyberServer.csproj.CopyComplete
 D:\Unity Project\Demo-Cyber-Server\CyberServer\bin\Debug\log4net.dll
+D:\Unity Project\Demo-Cyber-Server\CyberServer\obj\Debug\CyberServer.csproj.AssemblyReference.cache

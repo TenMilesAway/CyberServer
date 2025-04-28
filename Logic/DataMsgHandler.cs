@@ -15,6 +15,7 @@ public partial class MsgHandler
             {
 				// 成功
 				msg.result = 0;
+				c.player = DBManager.SelectPlayerInfo(msg.playerInfo.id);
 				LogService.Info("[服务器] 用户信息插入成功, " + c.socket.RemoteEndPoint);
 			}
 			else
@@ -56,6 +57,7 @@ public partial class MsgHandler
 			return;
 		}
 
+		c.player = DBManager.SelectPlayerInfo(msg.playerInfo.id);
 		msg.result = 0;
 		NetManager.Send(c, msg);
 		LogService.Info("[服务器] 用户信息获取成功, " + c.socket.RemoteEndPoint);
