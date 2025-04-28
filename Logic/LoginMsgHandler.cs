@@ -16,9 +16,10 @@ public partial class MsgHandler
 			return;
         }
 
-		// 将 PlayerInfo 信息存储在 ClientState 中，便于管理
-		c.player = DBManager.SelectPlayerInfo(msg.id);
-		msg.result = 0;
+        // 将 PlayerInfo 信息存储在 ClientState 中，便于管理
+        // 这里有问题，如果数据库没有这个信息，player = null，需要在其它地方来保存这个信息
+        c.player = DBManager.SelectPlayerInfo(msg.id);
+        msg.result = 0;
 		NetManager.Send(c, msg);
 		LogService.Info("[服务器] 用户登录成功, " + c.socket.RemoteEndPoint);
 
@@ -31,7 +32,6 @@ public partial class MsgHandler
 
 		if (!DBManager.CheckRegister(msg.id, msg.pw))
         {
-			Console.WriteLine("进来了");
 			msg.result = 1;
 			NetManager.Send(c, msg);
 			return;
