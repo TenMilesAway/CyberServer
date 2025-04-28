@@ -6,13 +6,23 @@ namespace CyberServer
 	{
 		public static void OnDisconnect(ClientState c)
 		{
-			//// Player下线
-			//if(c.player != null){
-			//	// 保存数据
-			//	DbManager.UpdatePlayerData(c.player.id, c.player.data);
-			//	// 移除
-			//	PlayerManager.RemovePlayer(c.player.id);
-			//}
+			// Player 下线
+
+			// 数据保存
+
+			MsgPlayerDisconnect msg = new MsgPlayerDisconnect();
+
+			msg.id = c.player.id;
+
+			// 广播
+			foreach (ClientState state in NetManager.clients.Values)
+            {
+				// 如果不是当前地图，则跳过信息广播
+				if (state.mapInfo != c.mapInfo)
+					continue;
+
+				NetManager.Send(state, msg);
+            }
 		}
 
 

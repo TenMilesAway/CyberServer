@@ -18,6 +18,8 @@ public class PlayerInfo
     public List<ItemInfo> items;
     public List<ItemInfo> equips;
     public List<ItemInfo> potions;
+
+    public List<ItemInfo> nowEquips;
 }
 
 [System.Serializable]

@@ -24,4 +24,21 @@ public partial class MsgHandler
 
 		// 分发数据给客户端
 	}
+
+	public static void MsgRegister(ClientState c, MsgBase msgBase)
+    {
+		MsgRegister msg = (MsgRegister)msgBase;
+
+		if (!DBManager.CheckRegister(msg.id, msg.pw))
+        {
+			Console.WriteLine("进来了");
+			msg.result = 1;
+			NetManager.Send(c, msg);
+			return;
+		}
+
+		msg.result = 0;
+		NetManager.Send(c, msg);
+		LogService.Info("[服务器] 用户注册成功, " + c.socket.RemoteEndPoint);
+	}
 }

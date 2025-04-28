@@ -1,0 +1,455 @@
+
+2025-04-28 08:58:12,232 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-28 08:58:12,853 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-28 08:58:12,856 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-28 08:58:21,853 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:59757
+2025-04-28 08:58:25,879 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:59757
+2025-04-28 08:58:28,593 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:59757
+2025-04-28 08:58:28,608 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:59757
+2025-04-28 08:59:00,961 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:59757
+2025-04-28 08:59:03,466 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:63838
+2025-04-28 08:59:13,230 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:63838
+2025-04-28 09:00:06,273 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:63838
+2025-04-28 09:00:06,291 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:63838
+2025-04-28 09:00:30,362 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:63838
+2025-04-28 09:00:49,314 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:63891
+2025-04-28 09:00:54,156 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:63891
+2025-04-28 09:01:16,315 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:63891
+2025-04-28 09:01:16,337 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:63891
+2025-04-28 09:01:27,448 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:63891
+2025-04-28 09:03:29,799 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:54824
+2025-04-28 09:03:33,275 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:54824
+2025-04-28 09:04:09,964 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:54824
+2025-04-28 09:04:09,984 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:54824
+2025-04-28 09:06:36,508 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:54824
+2025-04-28 09:21:43,389 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:60121
+2025-04-28 09:21:46,343 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:60121
+2025-04-28 09:21:49,306 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:60121
+2025-04-28 09:21:49,320 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:60121
+2025-04-28 09:23:43,502 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:60121
+2025-04-28 09:30:07,009 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:54245
+2025-04-28 09:30:10,344 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:54245
+2025-04-28 09:30:12,923 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:54245
+2025-04-28 09:30:12,936 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:54245
+2025-04-28 09:32:40,503 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:54245
+2025-04-28 09:54:59,593 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:58740
+2025-04-28 09:55:03,111 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:58740
+2025-04-28 09:55:05,767 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:58740
+2025-04-28 09:55:05,783 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:58740
+2025-04-28 09:55:44,690 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:58740
+2025-04-28 09:55:46,834 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:58754
+2025-04-28 09:55:50,192 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:58754
+2025-04-28 09:55:52,636 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:58754
+2025-04-28 09:55:52,651 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:58754
+2025-04-28 09:57:03,836 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:58754
+2025-04-28 09:57:11,539 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:54553
+2025-04-28 09:57:14,939 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:54553
+2025-04-28 09:57:17,248 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:54553
+2025-04-28 09:57:17,262 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:54553
+2025-04-28 09:59:07,728 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:54553
+2025-04-28 10:00:01,706 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:53864
+2025-04-28 10:00:05,289 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:53864
+2025-04-28 10:00:07,726 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:53864
+2025-04-28 10:00:07,741 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:53864
+2025-04-28 10:01:47,462 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:53864
+2025-04-28 10:06:27,563 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:50804
+2025-04-28 10:06:30,562 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:50804
+2025-04-28 10:06:33,090 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:50804
+2025-04-28 10:06:33,106 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:50804
+2025-04-28 10:07:05,296 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:50804
+2025-04-28 10:07:24,255 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:56162
+2025-04-28 10:07:27,352 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:56162
+2025-04-28 10:07:29,536 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:56162
+2025-04-28 10:07:29,551 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:56162
+2025-04-28 10:11:56,511 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:56162
+2025-04-28 10:55:16,164 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-28 10:55:16,696 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-28 10:55:16,699 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-28 10:56:04,756 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62229
+2025-04-28 10:56:08,082 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:62229
+2025-04-28 10:56:11,784 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:62229
+2025-04-28 10:56:11,802 [1] [INFO ] [NetManager] ：[数据库] 语句: insert into player values('ph', '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":2,"num":1},{"id":3,"num":1},{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}')
+2025-04-28 10:56:11,806 [1] [INFO ] [NetManager] ：[服务器] 用户信息插入成功, 127.0.0.1:62229
+2025-04-28 10:56:11,807 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:62229
+2025-04-28 10:56:38,186 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:62229
+2025-04-28 10:57:00,522 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-28 10:57:01,079 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-28 10:57:01,082 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-28 10:57:05,188 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64187
+2025-04-28 10:57:08,492 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64187
+2025-04-28 10:57:11,995 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:64187
+2025-04-28 10:57:12,008 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:64187
+2025-04-28 10:58:30,239 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:64187
+2025-04-28 10:58:32,587 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64204
+2025-04-28 10:58:35,752 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64204
+2025-04-28 10:58:38,201 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:64204
+2025-04-28 10:58:38,222 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:64204
+2025-04-28 10:59:18,613 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:64204
+2025-04-28 10:59:20,877 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:58543
+2025-04-28 10:59:24,207 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:58543
+2025-04-28 10:59:26,547 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:58543
+2025-04-28 10:59:26,564 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:58543
+2025-04-28 11:00:25,018 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:58543
+2025-04-28 11:00:35,610 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:58555
+2025-04-28 11:00:39,030 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:58555
+2025-04-28 11:00:40,718 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:58555
+2025-04-28 11:00:40,730 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:58555
+2025-04-28 11:01:13,779 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:58555
+2025-04-28 11:01:16,061 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:56982
+2025-04-28 11:01:19,986 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:56982
+2025-04-28 11:01:21,271 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:56982
+2025-04-28 11:01:21,284 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:56982
+2025-04-28 11:02:03,553 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:56982
+2025-04-28 11:02:14,148 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:56999
+2025-04-28 11:02:23,666 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:56999
+2025-04-28 11:02:24,786 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:56999
+2025-04-28 11:02:24,797 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:56999
+2025-04-28 11:03:50,962 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:56999
+2025-04-28 11:03:58,708 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:56334
+2025-04-28 11:04:03,825 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:56334
+2025-04-28 11:04:05,256 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:56334
+2025-04-28 11:04:05,271 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:56334
+2025-04-28 11:06:19,450 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:56334
+2025-04-28 11:07:14,038 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:53998
+2025-04-28 11:07:17,691 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:53998
+2025-04-28 11:07:19,543 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:53998
+2025-04-28 11:07:19,556 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:53998
+2025-04-28 11:07:30,151 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":3,"num":1},{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:07:30,156 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:53998
+2025-04-28 11:07:32,638 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:07:32,642 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:53998
+2025-04-28 11:07:35,859 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:07:35,862 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:53998
+2025-04-28 11:07:36,589 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:07:36,593 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:53998
+2025-04-28 11:07:38,130 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":4,"num":1},{"id":5,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 11:07:38,135 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:53998
+2025-04-28 11:07:39,391 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":4,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":6,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:07:39,395 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:53998
+2025-04-28 11:07:40,394 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:07:40,398 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:53998
+2025-04-28 11:07:41,452 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":2,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 11:07:41,457 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:53998
+2025-04-28 11:07:50,555 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:53998
+2025-04-28 11:07:52,952 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:54010
+2025-04-28 11:07:56,194 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:54010
+2025-04-28 11:07:57,341 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:54010
+2025-04-28 11:07:57,358 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:54010
+2025-04-28 11:08:01,999 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":2,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 11:08:02,003 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54010
+2025-04-28 11:08:03,454 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 11:08:03,459 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54010
+2025-04-28 11:08:07,374 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":5,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 11:08:07,377 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54010
+2025-04-28 11:10:54,511 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:54010
+2025-04-28 11:12:27,726 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:54835
+2025-04-28 11:12:30,878 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:54835
+2025-04-28 11:12:32,743 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:54835
+2025-04-28 11:12:32,758 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:54835
+2025-04-28 11:12:51,340 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:12:51,344 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54835
+2025-04-28 11:12:53,214 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":5,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 11:12:53,218 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54835
+2025-04-28 11:12:54,396 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 11:12:54,400 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54835
+2025-04-28 11:13:00,760 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:13:00,764 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54835
+2025-04-28 11:13:03,179 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:13:03,181 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54835
+2025-04-28 11:13:35,558 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:54835
+2025-04-28 11:13:37,759 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:56166
+2025-04-28 11:13:40,735 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:56166
+2025-04-28 11:13:41,778 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:56166
+2025-04-28 11:13:41,794 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:56166
+2025-04-28 11:13:47,501 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:13:47,505 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56166
+2025-04-28 11:14:12,492 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:14:12,496 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56166
+2025-04-28 11:14:13,921 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:14:13,924 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56166
+2025-04-28 11:14:14,404 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:14:14,408 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56166
+2025-04-28 11:15:27,377 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:56166
+2025-04-28 11:18:27,304 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:57528
+2025-04-28 11:18:34,655 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:57528
+2025-04-28 11:18:37,080 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:57528
+2025-04-28 11:18:37,092 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:57528
+2025-04-28 11:18:43,133 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:18:43,138 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:57528
+2025-04-28 11:18:50,914 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:18:50,918 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:57528
+2025-04-28 11:18:52,570 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:18:52,575 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:57528
+2025-04-28 11:18:53,447 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:18:53,452 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:57528
+2025-04-28 11:19:37,175 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:57528
+2025-04-28 11:19:39,600 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:58365
+2025-04-28 11:19:42,734 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:58365
+2025-04-28 11:19:43,804 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:58365
+2025-04-28 11:19:43,820 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:58365
+2025-04-28 11:19:48,117 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:19:48,121 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58365
+2025-04-28 11:19:51,461 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:19:51,466 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58365
+2025-04-28 11:20:18,775 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:20:18,779 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58365
+2025-04-28 11:20:21,050 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:20:21,054 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58365
+2025-04-28 11:20:31,435 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:58365
+2025-04-28 11:20:33,887 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:50974
+2025-04-28 11:20:36,905 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:50974
+2025-04-28 11:20:37,868 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:50974
+2025-04-28 11:20:37,884 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:50974
+2025-04-28 11:20:42,025 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:20:42,029 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:50974
+2025-04-28 11:20:43,878 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:20:43,883 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:50974
+2025-04-28 11:20:46,168 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:20:46,176 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:50974
+2025-04-28 11:21:11,612 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:21:11,616 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:50974
+2025-04-28 11:22:32,260 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:50974
+2025-04-28 11:22:34,543 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:56709
+2025-04-28 11:22:37,753 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:56709
+2025-04-28 11:22:38,718 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:56709
+2025-04-28 11:22:38,731 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:56709
+2025-04-28 11:22:41,702 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:22:41,706 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56709
+2025-04-28 11:22:44,355 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":2,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:22:44,360 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56709
+2025-04-28 11:22:47,348 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":5,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":2,"num":1},{"id":1,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 11:22:47,352 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56709
+2025-04-28 11:22:49,095 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":2,"num":1},{"id":1,"num":1},{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:22:49,100 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56709
+2025-04-28 11:22:50,140 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:22:50,145 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56709
+2025-04-28 11:23:19,100 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:56709
+2025-04-28 11:23:21,358 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:56723
+2025-04-28 11:23:27,750 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:56723
+2025-04-28 11:23:51,972 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-28 11:23:52,467 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-28 11:23:52,470 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-28 11:23:56,484 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:56742
+2025-04-28 11:24:00,156 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:56742
+2025-04-28 11:24:02,445 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:56742
+2025-04-28 11:24:02,456 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:56742
+2025-04-28 11:24:07,057 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:24:07,061 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56742
+2025-04-28 11:24:08,473 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:24:08,476 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56742
+2025-04-28 11:24:10,439 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:24:10,443 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56742
+2025-04-28 11:24:24,558 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:24:24,560 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56742
+2025-04-28 11:24:28,843 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:24:28,846 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:56742
+2025-04-28 11:26:29,508 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:56742
+2025-04-28 11:28:03,886 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:58035
+2025-04-28 11:28:06,976 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:58035
+2025-04-28 11:28:08,898 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:58035
+2025-04-28 11:28:08,912 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:58035
+2025-04-28 11:28:13,415 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:13,420 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:13,916 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1},{"id":1,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:13,919 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:15,619 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":1,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:15,622 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:16,105 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":1,"num":1},{"id":6,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:16,108 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:18,094 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:18,098 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:18,518 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:18,521 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:19,569 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:19,574 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:20,013 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":1,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:20,016 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:21,937 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:21,940 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:23,468 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:23,472 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:23,871 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":2,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:23,876 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:24,458 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":2,"num":1},{"id":3,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:24,462 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:25,581 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":3,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:25,587 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:26,026 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":3,"num":1},{"id":1,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:26,029 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:26,924 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":1,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:26,927 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:27,335 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":1,"num":1},{"id":6,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:27,339 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:28,119 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":6,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:28,123 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:28,705 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":6,"num":1},{"id":2,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:28,709 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:30,100 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":2,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:30,109 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:32,974 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":2,"num":1},{"id":3,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:32,978 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:38,150 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":2,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:38,153 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:38,924 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":2,"num":1},{"id":3,"num":1},{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:38,926 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:40,118 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":2,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:40,121 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:45,134 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:45,137 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:45,652 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":3,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:45,655 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:49,534 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:49,538 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:50,007 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:50,010 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:50,944 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:50,948 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:28:51,533 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:28:51,537 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:29:00,851 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 11:29:00,854 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:29:01,487 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:29:01,491 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:29:09,787 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:29:09,791 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:29:10,367 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":6,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:29:10,371 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:29:11,153 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:29:11,158 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:29:12,140 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:29:12,144 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:58035
+2025-04-28 11:31:06,500 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:58035
+2025-04-28 11:32:33,255 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:51557
+2025-04-28 11:32:36,212 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:51557
+2025-04-28 11:32:38,400 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:51557
+2025-04-28 11:32:38,415 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:51557
+2025-04-28 11:32:43,854 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:43,857 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:45,246 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":6,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:45,249 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:46,123 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":1,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:46,127 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:46,834 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":3,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:46,839 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:47,584 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:47,587 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:48,284 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":5,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:48,287 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:49,133 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":5,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:49,137 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:49,630 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":5,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:49,635 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:50,374 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 11:32:50,378 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:32:51,236 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 11:32:51,239 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51557
+2025-04-28 11:33:53,191 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:51557
+2025-04-28 11:35:09,373 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62821
+2025-04-28 11:35:14,755 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:62821
+2025-04-28 11:35:15,747 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:62821
+2025-04-28 11:35:15,763 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:62821
+2025-04-28 11:35:44,503 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:62821
+2025-04-28 11:36:00,524 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:55261
+2025-04-28 11:36:07,230 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:55261
+2025-04-28 11:36:17,150 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-28 11:36:17,662 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-28 11:36:17,665 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-28 11:36:21,584 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:55273
+2025-04-28 11:36:25,499 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:55273
+2025-04-28 11:36:27,570 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:55273
+2025-04-28 11:36:27,582 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:55273
+2025-04-28 11:38:30,624 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:55273
+2025-04-28 11:41:43,563 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:50696
+2025-04-28 11:41:47,042 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:50696
+2025-04-28 11:41:47,937 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:50696
+2025-04-28 11:41:47,953 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:50696
+2025-04-28 11:45:26,419 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:50696
+2025-04-28 11:45:47,016 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:49170
+2025-04-28 11:45:50,290 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:49170
+2025-04-28 11:45:52,856 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:49170
+2025-04-28 11:45:52,868 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:49170
+2025-04-28 11:51:06,909 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 11:51:06,913 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:49170
+2025-04-28 11:53:50,830 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:49170
+2025-04-28 11:55:33,873 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:59101
+2025-04-28 11:55:37,639 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:59101
+2025-04-28 11:55:40,621 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:59101
+2025-04-28 11:55:40,645 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:59101
+2025-04-28 12:00:07,514 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:59101
+2025-04-28 12:51:46,506 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:54960
+2025-04-28 12:51:50,043 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:54960
+2025-04-28 12:51:52,659 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:54960
+2025-04-28 12:51:52,674 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:54960
+2025-04-28 12:52:01,395 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":5,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:01,400 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:02,338 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1},{"id":5,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":4,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:02,342 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:03,210 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":4,"num":1},{"id":6,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:03,214 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:03,935 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":3,"num":1},{"id":4,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:03,940 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:04,509 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":3,"num":1},{"id":4,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:04,513 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:05,473 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:05,476 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:06,019 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":6,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:06,024 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:06,474 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":5,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:06,478 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:06,886 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":5,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:06,890 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:07,445 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":1,"num":1},{"id":3,"num":1},{"id":2,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[]}' where id = 'ph'
+2025-04-28 12:52:07,449 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 12:52:10,068 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":2,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1}]}' where id = 'ph'
+2025-04-28 12:52:10,071 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:54960
+2025-04-28 14:28:25,511 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:54960
+2025-04-28 14:40:39,200 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:51805
+2025-04-28 14:40:42,753 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:51805
+2025-04-28 14:40:46,153 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:51805
+2025-04-28 14:40:46,168 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:51805
+2025-04-28 14:41:03,315 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":5,"num":1},{"id":6,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":2,"num":1}]}' where id = 'ph'
+2025-04-28 14:41:03,319 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51805
+2025-04-28 14:43:13,504 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:51805
+2025-04-28 14:45:05,735 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62873
+2025-04-28 14:45:08,938 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:62873
+2025-04-28 14:45:11,203 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:62873
+2025-04-28 14:45:11,220 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:62873
+2025-04-28 14:45:48,407 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:62873
+2025-04-28 14:45:58,915 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62909
+2025-04-28 14:46:06,930 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:62909
+2025-04-28 14:46:17,142 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-04-28 14:46:17,547 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-04-28 14:46:17,548 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-04-28 14:46:25,173 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62920
+2025-04-28 14:46:28,656 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:62920
+2025-04-28 14:46:30,255 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:62920
+2025-04-28 14:46:30,270 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:62920
+2025-04-28 14:47:08,988 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:62920
+2025-04-28 14:53:41,067 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:51010
+2025-04-28 14:53:44,385 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:51010
+2025-04-28 14:53:45,227 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:51010
+2025-04-28 14:53:45,241 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:51010
+2025-04-28 14:54:01,137 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":5,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":2,"num":1},{"id":6,"num":1}]}' where id = 'ph'
+2025-04-28 14:54:01,140 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51010
+2025-04-28 14:54:02,604 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":2,"num":1},{"id":6,"num":1},{"id":5,"num":1}]}' where id = 'ph'
+2025-04-28 14:54:02,607 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51010
+2025-04-28 14:54:03,807 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":4,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":2,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 14:54:03,809 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51010
+2025-04-28 14:54:04,746 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":2,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":3,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 14:54:04,749 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:51010
+2025-04-28 14:54:15,637 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:51010
+2025-04-28 15:05:02,498 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64812
+2025-04-28 15:05:05,694 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64812
+2025-04-28 15:05:08,497 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:64812
+2025-04-28 15:05:08,509 [1] [INFO ] [NetManager] ：[服务器] 将 MsgUpdatePlayerEntities 分发给了 127.0.0.1:64812
+2025-04-28 15:05:13,645 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":2,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 15:05:13,650 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:64812
+2025-04-28 15:05:14,195 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":6,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":2,"num":1},{"id":5,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 15:05:14,198 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:64812
+2025-04-28 15:05:14,875 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":6,"num":1},{"id":5,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":2,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 15:05:14,878 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:64812
+2025-04-28 15:05:15,854 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":3,"num":1},{"id":6,"num":1},{"id":5,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":4,"num":1}]}' where id = 'ph'
+2025-04-28 15:05:15,858 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:64812
+2025-04-28 15:05:18,533 [1] [INFO ] [NetManager] ：[数据库] 语句: update player set data = '{"id":"ph","level":1,"gold":1000,"gem":0,"hp":100,"head":"Icons/头像","items":[{"id":13,"num":1}],"equips":[{"id":6,"num":1},{"id":5,"num":1},{"id":2,"num":1}],"potions":[{"id":7,"num":3},{"id":8,"num":3}],"nowEquips":[{"id":1,"num":1},{"id":4,"num":1},{"id":3,"num":1}]}' where id = 'ph'
+2025-04-28 15:05:18,537 [1] [INFO ] [NetManager] ：[服务器] 用户信息更新成功, 127.0.0.1:64812
+2025-04-28 15:07:03,507 [1] [ERROR] [NetManager] ：[服务器] Ping Close 127.0.0.1:64812
