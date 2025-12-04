@@ -4,22 +4,30 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// [12/4] 修改 PlayerInfo 以适配最新版本
+/// </summary>
 [System.Serializable]
 public class PlayerInfo
 {
-    public string id;
+    public string _id;
+    public string _name;
+    public string _head;
 
-    public int level;
-    public int gold;
-    public int gem;
-    public int hp;
-    public string head;
+    public int _level;
+    public int _commonCurrency;
+    public int _rareCurrency;
+    public int _maxHP;
+    public int _currentHP;
+    public int _maxMP;
+    public int _currentMP;
+    public int _maxEXP;
+    public int _currentEXP;
 
-    public List<ItemInfo> items;
-    public List<ItemInfo> equips;
-    public List<ItemInfo> potions;
-
-    public List<ItemInfo> nowEquips;
+    public List<ItemInfo> _items;
+    public List<ItemInfo> _equips;
+    public List<ItemInfo> _potions;
+    public List<ItemInfo> _nowEquips;
 }
 
 [System.Serializable]

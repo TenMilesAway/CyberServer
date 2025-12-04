@@ -13,7 +13,7 @@ namespace CyberServer
 			MsgPlayerDisconnect msg = new MsgPlayerDisconnect();
 
 			if (c.player == null) return;
-			msg.id = c.player.id;
+			msg.id = c.player._id;
 
 			// 广播
 			foreach (ClientState state in NetManager.clients.Values)

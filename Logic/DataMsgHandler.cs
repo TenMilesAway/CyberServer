@@ -8,14 +8,14 @@ public partial class MsgHandler
 		MsgPlayerDataSave msg = (MsgPlayerDataSave) msgBase;
 
 		// 玩家信息为空
-		if (DBManager.SelectPlayerInfo(msg.playerInfo.id) == null)
+		if (DBManager.SelectPlayerInfo(msg.playerInfo._id) == null)
         {
 			// 插入玩家数据
-			if (DBManager.InsertPlayerInfo(msg.playerInfo.id, msg.playerInfo))
+			if (DBManager.InsertPlayerInfo(msg.playerInfo._id, msg.playerInfo))
             {
 				// 成功
 				msg.result = 0;
-				c.player = DBManager.SelectPlayerInfo(msg.playerInfo.id);
+				c.player = DBManager.SelectPlayerInfo(msg.playerInfo._id);
 				LogService.Info("[服务器] 用户信息插入成功, " + c.socket.RemoteEndPoint);
 			}
 			else
@@ -30,7 +30,7 @@ public partial class MsgHandler
         }
 
 		// 玩家信息不为空，更新信息
-		if (!DBManager.UpdatePlayerInfo(msg.playerInfo.id, msg.playerInfo))
+		if (!DBManager.UpdatePlayerInfo(msg.playerInfo._id, msg.playerInfo))
         {
 			msg.result = 1;
 			NetManager.Send(c, msg);
@@ -47,7 +47,7 @@ public partial class MsgHandler
     {
 		MsgPlayerDataLoad msg = (MsgPlayerDataLoad) msgBase;
 
-		msg.playerInfo = DBManager.SelectPlayerInfo(msg.playerInfo.id);
+		msg.playerInfo = DBManager.SelectPlayerInfo(msg.playerInfo._id);
 
 		if (msg.playerInfo == null)
         {
@@ -57,7 +57,7 @@ public partial class MsgHandler
 			return;
 		}
 
-		c.player = DBManager.SelectPlayerInfo(msg.playerInfo.id);
+		c.player = DBManager.SelectPlayerInfo(msg.playerInfo._id);
 		msg.result = 0;
 		NetManager.Send(c, msg);
 		LogService.Info("[服务器] 用户信息获取成功, " + c.socket.RemoteEndPoint);
