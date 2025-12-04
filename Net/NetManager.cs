@@ -4,6 +4,7 @@ using System.Net.Sockets;
 using System.Collections.Generic;
 using System.Reflection;
 using System.Linq;
+using System.Diagnostics;
 
 namespace CyberServer
 {
@@ -17,6 +18,7 @@ namespace CyberServer
 		static List<Socket> checkRead = new List<Socket>();
 		// ping 间隔
 		public static long pingInterval = 30;
+		public static long lastTimerTime = 0;
 		// 坐标信息分发间隔，单位为毫秒
 		public static long tempInfoInterval = 100;
 		public static long lastTempInfoFireTime = GetTimeStampMilliseconds();
@@ -36,14 +38,16 @@ namespace CyberServer
 			listenfd.Listen(0);
 			LogService.Info("[服务器] 启动成功");
 
-			// 循环
-			while (true)
+			var stopwatch = Stopwatch.StartNew();
+
+            // 循环
+            while (true)
 			{
 				ResetCheckRead();  // 重置 checkRead
 				Socket.Select(checkRead, null, null, 1000);
 
-				// 检查可读对象
-				for (int i = checkRead.Count - 1; i >= 0; i--)
+                // 检查可读对象
+                for (int i = checkRead.Count - 1; i >= 0; i--)
 				{
 					Socket s = checkRead[i];
 					if (s == listenfd)
@@ -55,8 +59,14 @@ namespace CyberServer
 						ReadClientfd(s);
 					}
 				}
-				// 定时器
-				Timer();
+
+                // 定时器
+                long elapsed = stopwatch.ElapsedMilliseconds;
+                if (elapsed - lastTimerTime >= 1000)
+				{
+                    Timer();
+					lastTimerTime = elapsed;
+                }
 			}
 		}
 

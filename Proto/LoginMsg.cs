@@ -5,6 +5,7 @@ public class MsgLogin : MsgBase
 
     public string id = "";
     public string pw = "";
+    public long serverTimeStamp = 0;
 
     // 回复 (0 - 成功，1 - 失败)
     public int result = 0;

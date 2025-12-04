@@ -12,6 +12,7 @@ namespace CyberServer
 
 			MsgPlayerDisconnect msg = new MsgPlayerDisconnect();
 
+			if (c.player == null) return;
 			msg.id = c.player.id;
 
 			// 广播
