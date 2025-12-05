@@ -9,3 +9,13 @@ D:\Unity Project\Demo-Cyber-Server\CyberServer\bin\Debug\MySql.Data.xml
 D:\Unity Project\Demo-Cyber-Server\CyberServer\obj\Debug\CyberServer.csproj.CopyComplete
 D:\Unity Project\Demo-Cyber-Server\CyberServer\bin\Debug\log4net.dll
 D:\Unity Project\Demo-Cyber-Server\CyberServer\obj\Debug\CyberServer.csproj.AssemblyReference.cache
+D:\Unity Project\CyberServer\bin\Debug\CyberServer.exe.config
+D:\Unity Project\CyberServer\bin\Debug\CyberServer.exe
+D:\Unity Project\CyberServer\bin\Debug\CyberServer.pdb
+D:\Unity Project\CyberServer\bin\Debug\MySql.Data.xml
+D:\Unity Project\CyberServer\obj\Debug\CyberServer.csproj.AssemblyReference.cache
+D:\Unity Project\CyberServer\obj\Debug\CyberServer.exe.config
+D:\Unity Project\CyberServer\obj\Debug\CyberServer.csproj.CoreCompileInputs.cache
+D:\Unity Project\CyberServer\obj\Debug\CyberSer.550BC578.Up2Date
+D:\Unity Project\CyberServer\obj\Debug\CyberServer.exe
+D:\Unity Project\CyberServer\obj\Debug\CyberServer.pdb
