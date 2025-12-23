@@ -28,10 +28,8 @@ public class PlayerInfo
     public int _pDefense;             // 玩家防御值
     public int _pDamageAvoidance;     // 玩家免伤值
 
-    public List<ItemInfo> _items;     // 玩家拥有物品
-    public List<ItemInfo> _equips;    // 玩家拥有装备
-    public List<ItemInfo> _potions;   // 玩家拥有药水
     public List<ItemInfo> _nowEquips; // 玩家当前已装备
+    public List<ItemInfo> _allItems;  // 玩家拥有的所有物品
     public int _inventoryItemNum;     // 玩家仓库：物品格子数
     public int _inventoryEquipNum;    // 玩家仓库：装备格子数
     public int _inventoryPotionNum;   // 玩家仓库：药水格子数
