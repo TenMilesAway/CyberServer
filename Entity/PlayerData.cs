@@ -35,8 +35,6 @@ public class PlayerInfo
     public List<ItemInfo> _nowEquips;   // 玩家当前已装备
     public List<ItemInfo> _allItems;    // 玩家拥有的所有物品
     public int _inventoryItemNum;       // 玩家仓库：物品格子数
-    public int _inventoryEquipNum;      // 玩家仓库：装备格子数
-    public int _inventoryPotionNum;     // 玩家仓库：药水格子数
     public int _safeboxNum;             // 安全行囊格子数
 }
 
@@ -56,4 +54,45 @@ public class PlayerTempInfo
     public float rz;
     // 临时信息 - 玩家有限状态
     public string state;
+}
+
+[System.Serializable]
+public class PlayerBaseEntity
+{
+    public string id;
+    public string name;
+    public string head;
+    public int level;
+    public int common_currency;
+    public int rare_currency;
+}
+
+[System.Serializable]
+public class PlayerStatsEntity
+{
+    public string player_id;
+    public int max_hp;
+    public int max_mp;
+    public int max_exp;
+    public int current_hp;
+    public int current_mp;
+    public int current_exp;
+    public int attack;
+    public int armor_penetration;
+    public int defense;
+    public int damage_avoidance;
+    public float critical_probability;
+    public float critical_multiplier;
+    public float suck_probability;
+    public float suck_multiplier;
+}
+
+[System.Serializable]
+public class PlayerInventoryEntity
+{
+    public string player_id;
+    public List<ItemInfo> items;
+    public List<ItemInfo> now_equips;
+    public int inventory_num;
+    public int safebox_num;
 }

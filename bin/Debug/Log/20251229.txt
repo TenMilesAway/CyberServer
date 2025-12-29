@@ -1,0 +1,128 @@
+
+2025-12-29 15:22:24,765 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 15:22:25,162 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 15:22:25,164 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 15:22:39,261 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62410
+2025-12-29 15:23:30,006 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:62410
+2025-12-29 15:23:34,547 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62431
+2025-12-29 15:23:35,259 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:62431; 当前时间为: 1766993015510
+2025-12-29 15:23:39,717 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:62431
+2025-12-29 15:24:50,057 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 15:24:50,337 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 15:24:50,338 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 15:24:56,708 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62462
+2025-12-29 15:24:57,377 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:62462; 当前时间为: 1766993097752
+2025-12-29 15:25:00,910 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:62462
+2025-12-29 15:25:00,912 [1] [ERROR] [NetManager] ：[服务器] player_base 获取失败, 127.0.0.1:62462
+2025-12-29 15:28:01,645 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 15:28:01,932 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 15:28:01,933 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 15:28:09,229 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:62558
+2025-12-29 15:28:10,105 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:62558; 当前时间为: 1766993290208
+2025-12-29 15:28:13,748 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:62558
+2025-12-29 15:28:13,750 [1] [ERROR] [NetManager] ：[服务器] player_base 获取失败, 127.0.0.1:62558
+2025-12-29 15:28:13,753 [1] [INFO ] [NetManager] ：[数据库] 语句: insert into player values('zll', '{"_id":"zll","_name":"zll","_head":"Assets/UI/Main View/Main View.spriteatlas[IconHead]","_level":1,"_commonCurrency":100,"_rareCurrency":0,"_maxEXP":100,"_currentEXP":0,"_maxHP":100,"_currentHP":100,"_maxMP":100,"_currentMP":100,"_pAttack":20,"_pArmorPenetration":0,"_pDefense":0,"_pDamageAvoidance":0,"_pCriticalProbability":0,"_pCriticalMultiplier":0,"_pSuckProbability":0,"_pSuckMultiplier":0,"_nowEquips":[],"_allItems":[{"_id":1000,"_num":1},{"_id":0,"_num":0},{"_id":1001,"_num":1},{"_id":0,"_num":0},{"_id":1002,"_num":1},{"_id":0,"_num":0},{"_id":1003,"_num":1},{"_id":0,"_num":0},{"_id":1004,"_num":1},{"_id":1005,"_num":1},{"_id":1006,"_num":5},{"_id":1007,"_num":10},{"_id":1008,"_num":13},{"_id":4000,"_num":1},{"_id":5000,"_num":1},{"_id":6000,"_num":1},{"_id":7000,"_num":1},{"_id":8000,"_num":1},{"_id":9000,"_num":1},{"_id":3000,"_num":5},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0}],"_inventoryItemNum":40,"_safeboxNum":1}')
+2025-12-29 15:28:13,759 [1] [INFO ] [NetManager] ：[服务器] 用户信息插入成功, 127.0.0.1:62558
+2025-12-29 15:28:13,763 [1] [INFO ] [NetManager] ：[服务器] player_base 插入成功, 127.0.0.1:62558
+2025-12-29 15:28:13,765 [1] [INFO ] [NetManager] ：[服务器] player_base 更新成功, 127.0.0.1:62558
+2025-12-29 16:49:20,096 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 16:49:20,355 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 16:49:20,356 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 16:50:03,760 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64233
+2025-12-29 16:50:04,346 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64233; 当前时间为: 1766998204690
+2025-12-29 16:50:08,220 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:64233
+2025-12-29 16:50:08,223 [1] [ERROR] [NetManager] ：[服务器] player_base 获取失败, 127.0.0.1:64233
+2025-12-29 16:50:54,212 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 16:50:54,467 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 16:50:54,468 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 16:51:03,332 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64250
+2025-12-29 16:51:03,950 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64250; 当前时间为: 1766998264898
+2025-12-29 16:51:07,721 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:64250
+2025-12-29 16:51:07,723 [1] [ERROR] [NetManager] ：[服务器] player_base 获取失败, 127.0.0.1:64250
+2025-12-29 16:51:07,725 [1] [ERROR] [NetManager] ：[服务器] player_stats 获取失败, 127.0.0.1:64250
+2025-12-29 16:51:07,727 [1] [INFO ] [NetManager] ：[数据库] 语句: insert into player values('zll', '{"_id":"zll","_name":"zll","_head":"Assets/UI/Main View/Main View.spriteatlas[IconHead]","_level":1,"_commonCurrency":100,"_rareCurrency":0,"_maxEXP":100,"_currentEXP":0,"_maxHP":100,"_currentHP":100,"_maxMP":100,"_currentMP":100,"_pAttack":20,"_pArmorPenetration":0,"_pDefense":0,"_pDamageAvoidance":0,"_pCriticalProbability":0,"_pCriticalMultiplier":1,"_pSuckProbability":0,"_pSuckMultiplier":1,"_nowEquips":[],"_allItems":[{"_id":1000,"_num":1},{"_id":0,"_num":0},{"_id":1001,"_num":1},{"_id":0,"_num":0},{"_id":1002,"_num":1},{"_id":0,"_num":0},{"_id":1003,"_num":1},{"_id":0,"_num":0},{"_id":1004,"_num":1},{"_id":1005,"_num":1},{"_id":1006,"_num":5},{"_id":1007,"_num":10},{"_id":1008,"_num":13},{"_id":4000,"_num":1},{"_id":5000,"_num":1},{"_id":6000,"_num":1},{"_id":7000,"_num":1},{"_id":8000,"_num":1},{"_id":9000,"_num":1},{"_id":3000,"_num":5},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0}],"_inventoryItemNum":40,"_safeboxNum":1}')
+2025-12-29 16:51:07,730 [1] [INFO ] [NetManager] ：[服务器] 用户信息插入成功, 127.0.0.1:64250
+2025-12-29 16:51:07,734 [1] [INFO ] [NetManager] ：[服务器] player_base 插入成功, 127.0.0.1:64250
+2025-12-29 16:51:07,736 [1] [INFO ] [NetManager] ：[服务器] player_base 更新成功, 127.0.0.1:64250
+2025-12-29 16:51:07,738 [1] [INFO ] [NetManager] ：[服务器] player_stats 插入成功, 127.0.0.1:64250
+2025-12-29 16:52:42,390 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 16:52:42,695 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 16:52:42,697 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 16:52:47,626 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64272
+2025-12-29 16:52:48,348 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64272; 当前时间为: 1766998368694
+2025-12-29 16:52:52,066 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:64272
+2025-12-29 16:52:52,070 [1] [INFO ] [NetManager] ：[服务器] player_base 获取成功, 127.0.0.1:64272
+2025-12-29 16:52:52,074 [1] [INFO ] [NetManager] ：[服务器] player_stats 获取成功, 127.0.0.1:64272
+2025-12-29 17:30:14,287 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 17:30:14,564 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 17:30:14,565 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 17:30:20,874 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64791
+2025-12-29 17:30:21,421 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64791; 当前时间为: 1767000621840
+2025-12-29 17:30:25,905 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:64791
+2025-12-29 17:30:25,907 [1] [ERROR] [NetManager] ：[服务器] player_base 获取失败, 127.0.0.1:64791
+2025-12-29 17:30:25,909 [1] [ERROR] [NetManager] ：[服务器] player_stats 获取失败, 127.0.0.1:64791
+2025-12-29 17:30:57,874 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 17:30:58,216 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 17:30:58,218 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 17:31:08,154 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64814
+2025-12-29 17:31:08,789 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64814; 当前时间为: 1767000669576
+2025-12-29 17:31:12,555 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:64814
+2025-12-29 17:31:12,557 [1] [ERROR] [NetManager] ：[服务器] player_base 获取失败, 127.0.0.1:64814
+2025-12-29 17:31:12,559 [1] [ERROR] [NetManager] ：[服务器] player_stats 获取失败, 127.0.0.1:64814
+2025-12-29 17:31:12,565 [1] [ERROR] [NetManager] ：[服务器] player_inventory 获取失败, 127.0.0.1:64814
+2025-12-29 17:31:12,567 [1] [INFO ] [NetManager] ：[数据库] 语句: insert into player values('zll', '{"_id":"zll","_name":"zll","_head":"Assets/UI/Main View/Main View.spriteatlas[IconHead]","_level":1,"_commonCurrency":100,"_rareCurrency":0,"_maxEXP":100,"_currentEXP":0,"_maxHP":100,"_currentHP":100,"_maxMP":100,"_currentMP":100,"_pAttack":20,"_pArmorPenetration":0,"_pDefense":0,"_pDamageAvoidance":0,"_pCriticalProbability":0,"_pCriticalMultiplier":1,"_pSuckProbability":0,"_pSuckMultiplier":1,"_nowEquips":[],"_allItems":[{"_id":1000,"_num":1},{"_id":0,"_num":0},{"_id":1001,"_num":1},{"_id":0,"_num":0},{"_id":1002,"_num":1},{"_id":0,"_num":0},{"_id":1003,"_num":1},{"_id":0,"_num":0},{"_id":1004,"_num":1},{"_id":1005,"_num":1},{"_id":1006,"_num":5},{"_id":1007,"_num":10},{"_id":1008,"_num":13},{"_id":4000,"_num":1},{"_id":5000,"_num":1},{"_id":6000,"_num":1},{"_id":7000,"_num":1},{"_id":8000,"_num":1},{"_id":9000,"_num":1},{"_id":3000,"_num":5},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0}],"_inventoryItemNum":40,"_safeboxNum":1}')
+2025-12-29 17:31:12,570 [1] [INFO ] [NetManager] ：[服务器] 用户信息插入成功, 127.0.0.1:64814
+2025-12-29 17:31:12,573 [1] [INFO ] [NetManager] ：[服务器] player_base 插入成功, 127.0.0.1:64814
+2025-12-29 17:31:12,575 [1] [INFO ] [NetManager] ：[服务器] player_base 更新成功, 127.0.0.1:64814
+2025-12-29 17:31:12,611 [1] [INFO ] [NetManager] ：[服务器] player_stats 插入成功, 127.0.0.1:64814
+2025-12-29 17:31:12,612 [1] [ERROR] [NetManager] ：[服务器] player_stats 更新成功, 127.0.0.1:64814
+2025-12-29 17:31:12,616 [1] [ERROR] [NetManager] ：[数据库] player_inventory 插入失败: Incorrect integer value: '' for column 'player_id' at row 1
+2025-12-29 17:31:12,616 [1] [ERROR] [NetManager] ：[服务器] player_inventory 插入失败, 127.0.0.1:64814
+2025-12-29 17:31:12,618 [1] [ERROR] [NetManager] ：[服务器] player_inventory 更新成功, 127.0.0.1:64814
+2025-12-29 17:35:31,153 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 17:35:31,409 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 17:35:31,411 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 17:35:38,342 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64901
+2025-12-29 17:35:38,923 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64901; 当前时间为: 1767000939842
+2025-12-29 17:35:42,618 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:64901
+2025-12-29 17:35:42,620 [1] [ERROR] [NetManager] ：[服务器] player_base 获取失败, 127.0.0.1:64901
+2025-12-29 17:35:42,622 [1] [ERROR] [NetManager] ：[服务器] player_stats 获取失败, 127.0.0.1:64901
+2025-12-29 17:35:42,625 [1] [ERROR] [NetManager] ：[服务器] player_inventory 获取失败, 127.0.0.1:64901
+2025-12-29 17:35:42,627 [1] [INFO ] [NetManager] ：[数据库] 语句: insert into player values('zll', '{"_id":"zll","_name":"zll","_head":"Assets/UI/Main View/Main View.spriteatlas[IconHead]","_level":1,"_commonCurrency":100,"_rareCurrency":0,"_maxEXP":100,"_currentEXP":0,"_maxHP":100,"_currentHP":100,"_maxMP":100,"_currentMP":100,"_pAttack":20,"_pArmorPenetration":0,"_pDefense":0,"_pDamageAvoidance":0,"_pCriticalProbability":0,"_pCriticalMultiplier":1,"_pSuckProbability":0,"_pSuckMultiplier":1,"_nowEquips":[],"_allItems":[{"_id":1000,"_num":1},{"_id":0,"_num":0},{"_id":1001,"_num":1},{"_id":0,"_num":0},{"_id":1002,"_num":1},{"_id":0,"_num":0},{"_id":1003,"_num":1},{"_id":0,"_num":0},{"_id":1004,"_num":1},{"_id":1005,"_num":1},{"_id":1006,"_num":5},{"_id":1007,"_num":10},{"_id":1008,"_num":13},{"_id":4000,"_num":1},{"_id":5000,"_num":1},{"_id":6000,"_num":1},{"_id":7000,"_num":1},{"_id":8000,"_num":1},{"_id":9000,"_num":1},{"_id":3000,"_num":5},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0}],"_inventoryItemNum":40,"_safeboxNum":1}')
+2025-12-29 17:35:42,632 [1] [INFO ] [NetManager] ：[服务器] 用户信息插入成功, 127.0.0.1:64901
+2025-12-29 17:35:42,635 [1] [INFO ] [NetManager] ：[服务器] player_base 插入成功, 127.0.0.1:64901
+2025-12-29 17:35:42,636 [1] [INFO ] [NetManager] ：[服务器] player_base 更新成功, 127.0.0.1:64901
+2025-12-29 17:35:42,639 [1] [INFO ] [NetManager] ：[服务器] player_stats 插入成功, 127.0.0.1:64901
+2025-12-29 17:35:42,640 [1] [ERROR] [NetManager] ：[服务器] player_stats 更新成功, 127.0.0.1:64901
+2025-12-29 17:35:42,643 [1] [ERROR] [NetManager] ：[数据库] player_inventory 插入失败: Incorrect integer value: 'zll' for column 'player_id' at row 1
+2025-12-29 17:35:42,644 [1] [ERROR] [NetManager] ：[服务器] player_inventory 插入失败, 127.0.0.1:64901
+2025-12-29 17:36:43,791 [1] [INFO ] [CyberServer] ：[数据库] 尝试连接
+2025-12-29 17:36:44,048 [1] [INFO ] [CyberServer] ：[数据库] 连接成功
+2025-12-29 17:36:44,050 [1] [INFO ] [NetManager] ：[服务器] 启动成功
+2025-12-29 17:36:50,973 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64922
+2025-12-29 17:36:51,476 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64922; 当前时间为: 1767001011950
+2025-12-29 17:36:55,080 [1] [ERROR] [NetManager] ：[服务器] 用户信息获取失败, 127.0.0.1:64922
+2025-12-29 17:36:55,082 [1] [ERROR] [NetManager] ：[服务器] player_base 获取失败, 127.0.0.1:64922
+2025-12-29 17:36:55,083 [1] [ERROR] [NetManager] ：[服务器] player_stats 获取失败, 127.0.0.1:64922
+2025-12-29 17:36:55,084 [1] [ERROR] [NetManager] ：[服务器] player_inventory 获取失败, 127.0.0.1:64922
+2025-12-29 17:36:55,086 [1] [INFO ] [NetManager] ：[数据库] 语句: insert into player values('zll', '{"_id":"zll","_name":"zll","_head":"Assets/UI/Main View/Main View.spriteatlas[IconHead]","_level":1,"_commonCurrency":100,"_rareCurrency":0,"_maxEXP":100,"_currentEXP":0,"_maxHP":100,"_currentHP":100,"_maxMP":100,"_currentMP":100,"_pAttack":20,"_pArmorPenetration":0,"_pDefense":0,"_pDamageAvoidance":0,"_pCriticalProbability":0,"_pCriticalMultiplier":1,"_pSuckProbability":0,"_pSuckMultiplier":1,"_nowEquips":[],"_allItems":[{"_id":1000,"_num":1},{"_id":0,"_num":0},{"_id":1001,"_num":1},{"_id":0,"_num":0},{"_id":1002,"_num":1},{"_id":0,"_num":0},{"_id":1003,"_num":1},{"_id":0,"_num":0},{"_id":1004,"_num":1},{"_id":1005,"_num":1},{"_id":1006,"_num":5},{"_id":1007,"_num":10},{"_id":1008,"_num":13},{"_id":4000,"_num":1},{"_id":5000,"_num":1},{"_id":6000,"_num":1},{"_id":7000,"_num":1},{"_id":8000,"_num":1},{"_id":9000,"_num":1},{"_id":3000,"_num":5},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0},{"_id":0,"_num":0}],"_inventoryItemNum":40,"_safeboxNum":1}')
+2025-12-29 17:36:55,089 [1] [INFO ] [NetManager] ：[服务器] 用户信息插入成功, 127.0.0.1:64922
+2025-12-29 17:36:55,094 [1] [INFO ] [NetManager] ：[服务器] player_base 插入成功, 127.0.0.1:64922
+2025-12-29 17:36:55,095 [1] [INFO ] [NetManager] ：[服务器] player_base 更新成功, 127.0.0.1:64922
+2025-12-29 17:36:55,098 [1] [INFO ] [NetManager] ：[服务器] player_stats 插入成功, 127.0.0.1:64922
+2025-12-29 17:36:55,099 [1] [ERROR] [NetManager] ：[服务器] player_stats 更新成功, 127.0.0.1:64922
+2025-12-29 17:36:55,103 [1] [INFO ] [NetManager] ：[服务器] player_inventory 插入成功, 127.0.0.1:64922
+2025-12-29 17:38:22,436 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:64922
+2025-12-29 17:38:27,766 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64960
+2025-12-29 17:38:28,334 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64960; 当前时间为: 1767001108668
+2025-12-29 17:38:32,044 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:64960
+2025-12-29 17:38:32,046 [1] [INFO ] [NetManager] ：[服务器] player_base 获取成功, 127.0.0.1:64960
+2025-12-29 17:38:32,048 [1] [INFO ] [NetManager] ：[服务器] player_stats 获取成功, 127.0.0.1:64960
+2025-12-29 17:38:32,049 [1] [INFO ] [NetManager] ：[服务器] player_inventory 获取成功, 127.0.0.1:64960
+2025-12-29 17:39:18,852 [1] [WARN ] [NetManager] ：[服务器] 用户下线，客户端关闭: 127.0.0.1:64960
+2025-12-29 17:39:23,930 [1] [INFO ] [NetManager] ：[服务器] 接收到用户连接: 127.0.0.1:64977
+2025-12-29 17:39:24,563 [1] [INFO ] [NetManager] ：[服务器] 用户登录成功, 127.0.0.1:64977; 当前时间为: 1767001165126
+2025-12-29 17:39:28,218 [1] [INFO ] [NetManager] ：[服务器] 用户信息获取成功, 127.0.0.1:64977
+2025-12-29 17:39:28,220 [1] [INFO ] [NetManager] ：[服务器] player_base 获取成功, 127.0.0.1:64977
+2025-12-29 17:39:28,221 [1] [INFO ] [NetManager] ：[服务器] player_stats 获取成功, 127.0.0.1:64977
+2025-12-29 17:39:28,222 [1] [INFO ] [NetManager] ：[服务器] player_inventory 获取成功, 127.0.0.1:64977

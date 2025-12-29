@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "D:\\Unity Project\\CyberServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|d:\\unity project\\cyberserver\\entity\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:entity\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|d:\\unity project\\cyberserver\\db\\playerstatsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:db\\playerstatsmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|d:\\unity project\\cyberserver\\logic\\haplayermsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:logic\\haplayermsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|d:\\unity project\\cyberserver\\db\\playerinventorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:db\\playerinventorymapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\hamessages\\haplayermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:hamessages\\haplayermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|d:\\unity project\\cyberserver\\db\\playerbasemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:db\\playerbasemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\db\\playerinfomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:db\\playerinfomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|d:\\unity project\\cyberserver\\entity\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:entity\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\proto\\datamsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:proto\\datamsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\logic\\datamsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:logic\\datamsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|d:\\unity project\\cyberserver\\logic\\haplayermsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:logic\\haplayermsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\db\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:db\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\logic\\loginmsghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,20 +55,8 @@
       "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:logic\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\hamessages\\haplayermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:hamessages\\haplayermessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\db\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:db\\loginmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\proto\\loginmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:proto\\loginmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\proto\\datamsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:proto\\datamsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\cyberserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\entity\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:entity\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|solutionrelative:db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3D10828C-0973-44F1-B099-20D9EBA2DD3B}|CyberServer.csproj|D:\\Unity Project\\CyberServer\\net\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,36 +101,64 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "DockedWidth": 266,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "PlayerInventoryMapper.cs",
+              "DocumentMoniker": "D:\\Unity Project\\CyberServer\\DB\\PlayerInventoryMapper.cs",
+              "RelativeDocumentMoniker": "DB\\PlayerInventoryMapper.cs",
+              "ToolTip": "D:\\Unity Project\\CyberServer\\DB\\PlayerInventoryMapper.cs",
+              "RelativeToolTip": "DB\\PlayerInventoryMapper.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T08:42:08.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerStatsMapper.cs",
+              "DocumentMoniker": "D:\\Unity Project\\CyberServer\\DB\\PlayerStatsMapper.cs",
+              "RelativeDocumentMoniker": "DB\\PlayerStatsMapper.cs",
+              "ToolTip": "D:\\Unity Project\\CyberServer\\DB\\PlayerStatsMapper.cs",
+              "RelativeToolTip": "DB\\PlayerStatsMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T07:37:26.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HAPlayerMessage.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\HAMessages\\HAPlayerMessage.cs",
               "RelativeDocumentMoniker": "HAMessages\\HAPlayerMessage.cs",
               "ToolTip": "D:\\Unity Project\\CyberServer\\HAMessages\\HAPlayerMessage.cs",
               "RelativeToolTip": "HAMessages\\HAPlayerMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T09:42:16.745Z"
+              "WhenOpened": "2025-12-04T09:42:16.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "DataMsg.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Proto\\DataMsg.cs",
               "RelativeDocumentMoniker": "Proto\\DataMsg.cs",
               "ToolTip": "D:\\Unity Project\\CyberServer\\Proto\\DataMsg.cs",
               "RelativeToolTip": "Proto\\DataMsg.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T09:40:07.09Z"
+              "WhenOpened": "2025-12-04T09:40:07.09Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ItemData.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Entity\\ItemData.cs",
               "RelativeDocumentMoniker": "Entity\\ItemData.cs",
@@ -130,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "LoginMsg.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Proto\\LoginMsg.cs",
               "RelativeDocumentMoniker": "Proto\\LoginMsg.cs",
@@ -142,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "SysMsg.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Proto\\SysMsg.cs",
               "RelativeDocumentMoniker": "Proto\\SysMsg.cs",
@@ -154,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "NetManager.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Net\\NetManager.cs",
               "RelativeDocumentMoniker": "Net\\NetManager.cs",
@@ -166,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Reward.cs",
               "DocumentMoniker": "D:\\Unity Resources\\Luban\\luban_examples-main\\MiniTemplate\\code\\demo\\Reward.cs",
               "RelativeDocumentMoniker": "..\\..\\Unity Resources\\Luban\\luban_examples-main\\MiniTemplate\\code\\demo\\Reward.cs",
@@ -178,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Tables.cs",
               "DocumentMoniker": "D:\\Unity Resources\\Luban\\luban_examples-main\\MiniTemplate\\code\\Tables.cs",
               "RelativeDocumentMoniker": "..\\..\\Unity Resources\\Luban\\luban_examples-main\\MiniTemplate\\code\\Tables.cs",
@@ -190,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "demo_tbreward.json",
               "DocumentMoniker": "D:\\Unity Resources\\Luban\\luban_examples-main\\MiniTemplate\\output\\demo_tbreward.json",
               "RelativeDocumentMoniker": "..\\..\\Unity Resources\\Luban\\luban_examples-main\\MiniTemplate\\output\\demo_tbreward.json",
@@ -202,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "demo_tbitem.json",
               "DocumentMoniker": "D:\\Unity Resources\\Luban\\luban_examples-main\\MiniTemplate\\output\\demo_tbitem.json",
               "RelativeDocumentMoniker": "..\\..\\Unity Resources\\Luban\\luban_examples-main\\MiniTemplate\\output\\demo_tbitem.json",
@@ -214,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "EventHandler.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Logic\\EventHandler.cs",
               "RelativeDocumentMoniker": "Logic\\EventHandler.cs",
@@ -226,19 +266,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "DataMsgHandler.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Logic\\DataMsgHandler.cs",
               "RelativeDocumentMoniker": "Logic\\DataMsgHandler.cs",
               "ToolTip": "D:\\Unity Project\\CyberServer\\Logic\\DataMsgHandler.cs",
               "RelativeToolTip": "Logic\\DataMsgHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T02:35:08.4Z"
+              "WhenOpened": "2025-11-25T02:35:08.4Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "SysMsgHandler.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Logic\\SysMsgHandler.cs",
               "RelativeDocumentMoniker": "Logic\\SysMsgHandler.cs",
@@ -250,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "SyncMsgHandler.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Logic\\SyncMsgHandler.cs",
               "RelativeDocumentMoniker": "Logic\\SyncMsgHandler.cs",
@@ -262,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "LoginMsgHandler.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Logic\\LoginMsgHandler.cs",
               "RelativeDocumentMoniker": "Logic\\LoginMsgHandler.cs",
@@ -274,44 +315,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "PlayerData.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Entity\\PlayerData.cs",
               "RelativeDocumentMoniker": "Entity\\PlayerData.cs",
               "ToolTip": "D:\\Unity Project\\CyberServer\\Entity\\PlayerData.cs",
               "RelativeToolTip": "Entity\\PlayerData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAWwFIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-25T02:34:44.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PlayerInfoMapper.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\DB\\PlayerInfoMapper.cs",
               "RelativeDocumentMoniker": "DB\\PlayerInfoMapper.cs",
               "ToolTip": "D:\\Unity Project\\CyberServer\\DB\\PlayerInfoMapper.cs",
               "RelativeToolTip": "DB\\PlayerInfoMapper.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAAwEYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T02:07:21.959Z"
+              "WhenOpened": "2025-11-25T02:07:21.959Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "LoginMapper.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\DB\\LoginMapper.cs",
               "RelativeDocumentMoniker": "DB\\LoginMapper.cs",
               "ToolTip": "D:\\Unity Project\\CyberServer\\DB\\LoginMapper.cs",
               "RelativeToolTip": "DB\\LoginMapper.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAwCcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T01:39:16.427Z"
+              "WhenOpened": "2025-11-25T01:39:16.427Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "CyberServer.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\CyberServer.cs",
               "RelativeDocumentMoniker": "CyberServer.cs",
@@ -323,31 +366,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "DBManager.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\DB\\DBManager.cs",
               "RelativeDocumentMoniker": "DB\\DBManager.cs",
               "ToolTip": "D:\\Unity Project\\CyberServer\\DB\\DBManager.cs",
               "RelativeToolTip": "DB\\DBManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T01:01:20.938Z"
+              "WhenOpened": "2025-11-25T01:01:20.938Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 134,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
+              "Title": "PlayerBaseMapper.cs",
+              "DocumentMoniker": "D:\\Unity Project\\CyberServer\\DB\\PlayerBaseMapper.cs",
+              "RelativeDocumentMoniker": "DB\\PlayerBaseMapper.cs",
+              "ToolTip": "D:\\Unity Project\\CyberServer\\DB\\PlayerBaseMapper.cs",
+              "RelativeToolTip": "DB\\PlayerBaseMapper.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwGAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:02:43.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "HAPlayerMsgHandler.cs",
               "DocumentMoniker": "D:\\Unity Project\\CyberServer\\Logic\\HAPlayerMsgHandler.cs",
               "RelativeDocumentMoniker": "Logic\\HAPlayerMsgHandler.cs",
               "ToolTip": "D:\\Unity Project\\CyberServer\\Logic\\HAPlayerMsgHandler.cs",
               "RelativeToolTip": "Logic\\HAPlayerMsgHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAUwKYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-04T09:44:22.533Z",
               "EditorCaption": ""

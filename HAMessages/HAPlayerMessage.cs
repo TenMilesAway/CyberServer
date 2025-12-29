@@ -27,3 +27,63 @@ public class HAMsgPlayerInfoUpload : MsgBase
     /// </summary>
     public int result = 0;
 }
+
+public class MsgPlayerBaseSave : MsgBase
+{
+    public MsgPlayerBaseSave() { protoName = "MsgPlayerBaseSave"; }
+
+    public PlayerBaseEntity playerBaseEntity;
+
+    // 回复 (0 - 成功，1 - 失败)
+    public int result = 0;
+}
+
+public class MsgPlayerBaseLoad : MsgBase
+{
+    public MsgPlayerBaseLoad() { protoName = "MsgPlayerBaseLoad"; }
+
+    public PlayerBaseEntity playerBaseEntity;
+
+    // 回复 (0 - 成功，1 - 失败)
+    public int result = 0;
+}
+
+public class MsgPlayerStatsSave : MsgBase
+{
+    public MsgPlayerStatsSave() { protoName = "MsgPlayerStatsSave"; }
+
+    public PlayerStatsEntity playerStatsEntity;
+
+    // 回复 (0 - 成功，1 - 失败)
+    public int result = 0;
+}
+
+public class MsgPlayerStatsLoad : MsgBase
+{
+    public MsgPlayerStatsLoad() { protoName = "MsgPlayerStatsLoad"; }
+
+    public PlayerStatsEntity playerStatsEntity;
+
+    // 回复 (0 - 成功，1 - 失败)
+    public int result = 0;
+}
+
+public class MsgPlayerInventorySave : MsgBase
+{
+    public MsgPlayerInventorySave() { protoName = "MsgPlayerInventorySave"; }
+
+    public PlayerInventoryEntity playerInventoryEntity;
+
+    // 回复 (0 - 成功，1 - 失败)
+    public int result = 0;
+}
+
+public class MsgPlayerInventoryLoad : MsgBase
+{
+    public MsgPlayerInventoryLoad() { protoName = "MsgPlayerInventoryLoad"; }
+
+    public PlayerInventoryEntity playerInventoryEntity;
+
+    // 回复 (0 - 成功，1 - 失败)
+    public int result = 0;
+}

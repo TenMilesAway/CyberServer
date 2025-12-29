@@ -54,7 +54,10 @@
     <Compile Include="DB\DBManager.cs" />
     <Compile Include="CyberServer.cs" />
     <Compile Include="DB\LoginMapper.cs" />
+    <Compile Include="DB\PlayerBaseMapper.cs" />
     <Compile Include="DB\PlayerInfoMapper.cs" />
+    <Compile Include="DB\PlayerInventoryMapper.cs" />
+    <Compile Include="DB\PlayerStatsMapper.cs" />
     <Compile Include="Entity\ItemData.cs" />
     <Compile Include="Entity\MapData.cs" />
     <Compile Include="Entity\PlayerData.cs" />

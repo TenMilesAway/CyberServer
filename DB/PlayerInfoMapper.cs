@@ -14,8 +14,6 @@ namespace CyberServer
         /// <summary>
         /// 获取指定 id 的 PlayerInfo
         /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
         public static PlayerInfo SelectPlayerInfo(string id)
         {
             PlayerInfo playerInfo;
@@ -66,9 +64,6 @@ namespace CyberServer
         /// <summary>
         /// 存储指定 id 的 PlayerInfo
         /// </summary>
-        /// <param name="id"></param>
-        /// <param name="playerInfo"></param>
-        /// <returns></returns>
         public static bool InsertPlayerInfo(string id, PlayerInfo playerInfo)
         {
             if (!DBManager.IsSafeString(id))
@@ -100,9 +95,6 @@ namespace CyberServer
         /// <summary>
         /// 更新指定 id 的 PlayerInfo
         /// </summary>
-        /// <param name="id"></param>
-        /// <param name="playerInfo"></param>
-        /// <returns></returns>
         public static bool UpdatePlayerInfo(string id, PlayerInfo playerInfo)
         {
             if (!DBManager.IsSafeString(id))
@@ -134,8 +126,6 @@ namespace CyberServer
         /// <summary>
         /// 删除指定 PlayerInfo
         /// </summary>
-        /// <param name="id"></param>
-        /// <returns></returns>
         public static bool DeletePlayerInfo(string id)
         {
             if (!DBManager.IsSafeString(id))
