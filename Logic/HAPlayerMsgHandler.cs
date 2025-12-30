@@ -77,7 +77,6 @@ public partial class MsgHandler
             return;
         }
 
-        if (c.player == null) c.player = new PlayerInfo();
         UpdatePlayerInfoByPlayerBase(c, msg.playerBaseEntity);
 
         msg.result = 0;
@@ -235,6 +234,8 @@ public partial class MsgHandler
     #region 辅助方法
     private static void UpdatePlayerInfoByPlayerBase(ClientState c, PlayerBaseEntity entity)
     {
+        if (c.player == null) c.player = new PlayerInfo();
+
         c.player._id = entity.id;
         c.player._name = entity.name;
         c.player._head = entity.head;
@@ -245,6 +246,8 @@ public partial class MsgHandler
 
     private static void UpdatePlayerInfoByPlayerStats(ClientState c, PlayerStatsEntity entity)
     {
+        if (c.player == null) c.player = new PlayerInfo();
+
         c.player._maxHP = entity.max_hp;
         c.player._maxMP = entity.max_mp;
         c.player._maxEXP = entity.max_exp;
@@ -263,6 +266,8 @@ public partial class MsgHandler
 
     private static void UpdatePlayerInfoByPlayerInventory(ClientState c, PlayerInventoryEntity entity)
     {
+        if (c.player == null) c.player = new PlayerInfo();
+
         c.player._allItems = entity.items;
         c.player._nowEquips = entity.now_equips;
         c.player._inventoryItemNum = entity.inventory_num;
