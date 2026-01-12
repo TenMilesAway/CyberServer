@@ -62,9 +62,11 @@
     <Compile Include="Entity\MapData.cs" />
     <Compile Include="Entity\PlayerData.cs" />
     <Compile Include="HAMessages\HAPlayerMessage.cs" />
+    <Compile Include="HAMessages\HAStoreMessage.cs" />
     <Compile Include="Logic\DataMsgHandler.cs" />
     <Compile Include="Logic\EventHandler.cs" />
     <Compile Include="Logic\HAPlayerMsgHandler.cs" />
+    <Compile Include="Logic\HAStoreMsgHandler.cs" />
     <Compile Include="Logic\LoginMsgHandler.cs" />
     <Compile Include="Logic\SyncMsgHandler.cs" />
     <Compile Include="Logic\SysMsgHandler.cs" />
